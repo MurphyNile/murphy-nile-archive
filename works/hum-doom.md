@@ -3,9 +3,8 @@
 ## Overview
 
 - Year: 2024
-- Type: Audio Participation / interactive sound installation
-- URL: <https://www.murphynile.com/humdoom>
-- Image placeholder: `images/hum-doom/cover.jpg`
+- Medium: Real-time Interactive Synthesizer
+- [Project page](https://murphynile.com/work/hum-doom)
 
 ## Description (EN)
 

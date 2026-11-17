@@ -5,9 +5,8 @@
 - Year: 2025
 - Type: Artistic computer animation / machinima trilogy
 - Duration: 00:05:32
-- URL: <https://www.murphynile.com/theuptimeprotocol>
+- [Milan Machinima Festival interview](https://milanmachinimafestival.org/murphy-nile) · [Related project](control-club.md)
 - Relationship to Control Club: A machinima extension of the immersive project Control Club, unfolding in the same virtual-digital universe.
-- Image placeholder: `images/uptime-protocol/cover.jpg`
 
 ## Description (EN)
 
