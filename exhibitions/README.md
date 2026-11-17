@@ -1,9 +1,5 @@
-# Exhibitions
+# Exhibitions / 展览与放映
 
-A chronological overview of exhibitions, screenings, and live performance contexts.
+See the [CV](../texts/cv.md) for group exhibitions, residencies, screenings, performances, and talks. [Official biography](https://murphynile.com/bio)
 
-展览、放映与现场表演语境的时间线索引。
-
-For full entries, see [texts/cv.md](../texts/cv.md).
-
-完整条目请见 [texts/cv.md](../texts/cv.md)。
+群展、驻留、放映、现场演出与演讲见 [履历](../texts/cv.md)。

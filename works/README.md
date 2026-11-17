@@ -1,13 +1,15 @@
-# Works
+# Works / 作品
 
-A project list from animation, machinima, and installation.
+## Selected Works / 代表作品
 
-动画、机械影像与装置项目列表。
+- [Control Club](control-club.md) · 2025
+- [Boundary Still Loading](boundary-still-loading.md) · 2026
+- [Missing Signals](missing-signals.md) · 2026
+- [Low Latency Engine](low-latency-engine.md) · 2026
+- [Cyber Matrix Prison](cyber-matrix-prison.md) · 2023
+- [Hum Doom](hum-doom.md) · 2024
+- [Image Against Oppression](image-against-oppression.md) · 2024
 
-## Index
+## Related Work / 相关作品
 
-1. [CONTROL CLUB](control-club.md)
-2. [Control: The Uptime Protocol](control-the-uptime-protocol.md)
-3. [Cyber Matrix Prison](cyber-matrix-prison.md)
-4. [Hum Doom](hum-doom.md)
-5. [Image Against Oppression](image-against-oppression.md)
+- [Control: The Uptime Protocol](control-the-uptime-protocol.md) · A machinima extension of Control Club

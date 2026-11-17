@@ -3,10 +3,9 @@
 ## Overview
 
 - Year: 2025
-- Type: Expanded Animation / immersive audiovisual theatre / real-time CGI
+- Medium: Immersive Audiovisual Theatre / Expanded Animation
 - Duration: 00:04:53
-- URL: <https://www.murphynile.com/controlclub>
-- Image placeholder: `images/control-club/cover.jpg`
+- [Project page](https://murphynile.com/work/control-club)
 
 ## Description (EN)
 

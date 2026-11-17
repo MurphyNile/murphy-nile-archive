@@ -3,9 +3,8 @@
 ## Overview
 
 - Year: 2023
-- Type: Multi-screen Installation
-- URL: https://www.murphynile.com/cybermatrixprison
-- Image placeholder: `images/cyber-matrix-prison/cover.jpg`
+- Medium: Multi-Screen Installation
+- [Project page](https://murphynile.com/work/cyber-matrix-prison)
 
 ## Description (EN)
 

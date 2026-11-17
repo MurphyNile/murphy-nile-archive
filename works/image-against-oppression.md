@@ -3,10 +3,9 @@
 ## Overview
 
 - Year: 2024
-- Type: Audio Visual Live
+- Medium: Audiovisual Live Performance
 - Duration: 30 mins
-- URL: https://www.murphynile.com/imagesagainst
-- Image placeholder: `images/image-against-oppression/cover.jpg`
+- [Project page](https://murphynile.com/work/image-against-oppression)
 
 ## Description (EN)
 
